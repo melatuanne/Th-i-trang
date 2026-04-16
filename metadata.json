@@ -1,0 +1,7 @@
+{
+  "name": "Clothing",
+  "description": "Nền tảng sáng tạo hình ảnh thời trang chuyên nghiệp, phân tích ADN bối cảnh và tạo ảnh sale sang trọng bằng trí tuệ nhân tạo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
